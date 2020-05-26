@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Samsung Project</string>
+    <string name="hint">Введите сообщение</string>
+    <string name="btntext">Отправить</string>
+    <string name="openWeatherKey">851b1667016a033f48578c74bf89d6d9</string>
+</resources>
